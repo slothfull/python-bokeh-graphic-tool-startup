@@ -4,6 +4,6 @@
 ## CONTAIN: some bokeh server examples for startup
 
 ## RUN:
-Take './customjstransform' as an example:
-For receive.py: python3 -m bokeh serve --show receive.py
-For send.py: python3 send.py
+Take './customjstransform' as an example: <br>
+For receive.py: python3 -m bokeh serve --show receive.py <br>
+For send.py: python3 send.py <br>
